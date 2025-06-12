@@ -1,4 +1,12 @@
-### Hi there 👋
+Meu nome é João, sou um desenvolvedor e estudante da área de tecnologia
+
+Sou fascinado por tecnologia e buscando sempre o aprendizado e desenvolvimento pessoal.
+
+Tenho boas habilidades de comunicação, domínio da língua inglesa e muita disposição para me desafiar com novas áreas e assuntos.
+
+Algumas de minhas áreas de interesse são: Desenvolvimento Web, Inteligência Artificial, Infraestrutura de Sistemas, Big Data, Bancos de Dados e Desenvolvimentos de Jogos.
+
+Nerd de Origem e RPGista de Paixão 
 
 <!--
 **Th3Crw/Th3Crw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
