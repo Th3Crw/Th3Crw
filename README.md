@@ -4,7 +4,7 @@ Sou fascinado por tecnologia e buscando sempre o aprendizado e desenvolvimento p
 
 Tenho boas habilidades de comunicação, domínio da língua inglesa e muita disposição para me desafiar com novas áreas e assuntos.
 
-Algumas de minhas áreas de interesse são: Desenvolvimento Web, Inteligência Artificial, Infraestrutura de Sistemas, Big Data, Bancos de Dados e Desenvolvimentos de Jogos.
+Algumas de minhas áreas de interesse são: Desenvolvimento Web, Testes, Inteligência Artificial, Infraestrutura de Sistemas, Big Data, Bancos de Dados e Desenvolvimentos de Jogos.
 
 Nerd de Origem e RPGista de Paixão 
 
